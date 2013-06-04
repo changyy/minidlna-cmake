@@ -19,3 +19,6 @@
 [submodule "libexif-cmake"]
 	path = libexif-cmake
 	url = https://github.com/changyy/libexif-cmake.git
+[submodule "libjpeg-cmake"]
+	path = libjpeg-cmake
+	url = https://github.com/changyy/libjpeg-cmake.git
