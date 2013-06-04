@@ -1,0 +1,3 @@
+[submodule "sqlite-cmake"]
+	path = sqlite-cmake
+	url = https://github.com/changyy/sqlite-cmake.git
